@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Matheus 👋
+
+- 📚 Web development student at Trybe
 
 <!--
 **msgaspar/msgaspar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🚀 [Portfolio](https://mgaspar.dev) 
+💼 [LinkedIn](https://www.linkedin.com/in/matheussgaspar)
