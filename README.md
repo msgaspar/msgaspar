@@ -2,7 +2,7 @@
 
 🇧🇷 - São João da Boa Vista, Brazil <br>
 💻️ - Jr. full-stack developer @ [Celebrar](http://www.celebrar.com.br) <br>
-🎓 - University of São Paulo and [Trybe](https://www.betrybe.com) <br>
+🎓 - University of São Paulo and [Trybe](https://github.com/betrybe) <br>
 
 🛠️ - JavaScript (ES6+), React, Redux, Next.js, Node.js, Express, MySQL, MongoDB <br> 
 
